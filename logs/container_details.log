@@ -1,0 +1,30 @@
+Logging details for container container3 (b98d21cc01df07bb3619ea02ec049a865d4bc7265a3d1a34d3a3d8138ea603ec):
+Container Name: container3
+Container ID: b98d21cc01df07bb3619ea02ec049a865d4bc7265a3d1a34d3a3d8138ea603ec
+Image: nginx
+Status: running
+Uptime: 2024-12-30T07:54:58.405775568Z
+CPU Usage: 0.00%
+Memory Usage: 0.03%
+Disk Usage: 0%
+---------------------------
+Logging details for container container2 (153bacc8c53d2e5e699474a42a47dbc970f18a905af95b2c655be6d3af9d393f):
+Container Name: container2
+Container ID: 153bacc8c53d2e5e699474a42a47dbc970f18a905af95b2c655be6d3af9d393f
+Image: nginx
+Status: running
+Uptime: 2024-12-30T07:54:52.519723564Z
+CPU Usage: 0.00%
+Memory Usage: 0.03%
+Disk Usage: 0%
+---------------------------
+Logging details for container container1 (c13b2fbc9d7b17a0b5f44866457ae53847ecd371a44003b8e98351f6621ed956):
+Container Name: container1
+Container ID: c13b2fbc9d7b17a0b5f44866457ae53847ecd371a44003b8e98351f6621ed956
+Image: nginx
+Status: running
+Uptime: 2024-12-30T07:54:34.761154736Z
+CPU Usage: 0.00%
+Memory Usage: 0.03%
+Disk Usage: 0%
+---------------------------
